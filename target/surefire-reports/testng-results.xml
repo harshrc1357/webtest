@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T19:30:00 IST" name="Suite" finished-at="2021-09-26T19:30:26 IST" duration-ms="26186">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T19:30:00 IST" name="Test" finished-at="2021-09-26T19:30:26 IST" duration-ms="26186">
+      <class name="com.webapplication.webtest.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.webapplication.webtest.NewTest@2cdd0d4b]" started-at="2021-09-26T19:30:00 IST" name="beforeTest" finished-at="2021-09-26T19:30:03 IST" duration-ms="2676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test1()[pri:0, instance:com.webapplication.webtest.NewTest@2cdd0d4b]" started-at="2021-09-26T19:30:18 IST" name="test1" finished-at="2021-09-26T19:30:20 IST" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.webapplication.webtest.NewTest@2cdd0d4b]" started-at="2021-09-26T19:30:20 IST" name="test2" finished-at="2021-09-26T19:30:22 IST" duration-ms="2426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.webapplication.webtest.NewTest@2cdd0d4b]" started-at="2021-09-26T19:30:22 IST" name="test3" finished-at="2021-09-26T19:30:25 IST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.webapplication.webtest.NewTest@2cdd0d4b]" started-at="2021-09-26T19:30:25 IST" name="afterTest" finished-at="2021-09-26T19:30:26 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webapplication.webtest.NewTest -->
+      <class name="com.webapplication.webtest.NewTest2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:03 IST" name="beforeTest" finished-at="2021-09-26T19:30:04 IST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test11()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:04 IST" name="test11" finished-at="2021-09-26T19:30:09 IST" duration-ms="5213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test22()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:09 IST" name="test22" finished-at="2021-09-26T19:30:11 IST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test22 -->
+        <test-method signature="test33()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:11 IST" name="test33" finished-at="2021-09-26T19:30:14 IST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test33 -->
+        <test-method signature="test44()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:14 IST" name="test44" finished-at="2021-09-26T19:30:18 IST" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test44 -->
+        <test-method signature="test55()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:18 IST" name="test55" finished-at="2021-09-26T19:30:18 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test55 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.webapplication.webtest.NewTest2@1fb700ee]" started-at="2021-09-26T19:30:26 IST" name="afterTest" finished-at="2021-09-26T19:30:26 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webapplication.webtest.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
